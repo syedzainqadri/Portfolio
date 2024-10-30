@@ -1349,6 +1349,7 @@ body.modal{
 	max-height: 450px;
 	z-index: -1;
 	margin-bottom: 40px;
+	/* padding-bottom: 50px; */
 }
 .grax_tm_modalbox_news .description_wrap .image img{
 	min-width: 100%;
@@ -1363,6 +1364,7 @@ body.modal{
 	background-position: center;
 	background-size: cover;
 	border-radius: 5px;
+	/* padding-bottom: 50px; */
 }
 .grax_tm_modalbox_news .details .title{
 	font-weight: 600;
